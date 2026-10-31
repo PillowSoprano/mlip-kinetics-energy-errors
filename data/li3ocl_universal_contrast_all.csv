@@ -1,0 +1,8 @@
+model,M_vs_teacher_meV,sd_vs_teacher_meV,M_vs_DFT_meV,sd_vs_DFT_meV,first_order_ln_k_over_k_DFT
+MACE-MP-0-small,0.264,0.652,74.164,26.708,-0.861
+MACE-MP-0-medium,-23.807,8.925,50.093,28.152,-0.581
+CHGNet-MPtrj,-52.780,14.476,21.120,30.372,-0.245
+CHGNet-MatPES-PBE,-49.741,9.297,24.159,28.272,-0.280
+M3GNet-MatPES-PBE,-41.297,18.187,32.603,32.306,-0.378
+MatterSim-v1-1M,-66.740,9.079,7.160,28.202,-0.083
+MatterSim-v1-5M,-60.942,8.240,12.958,27.942,-0.150

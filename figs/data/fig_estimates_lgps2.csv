@@ -1,0 +1,4 @@
+name,pred,epred,meas,emeas
+CHG/MPA,0.934,0.083,1.072,0.043
+CHG/OMAT,0.947,0.083,0.944,0.039
+OMAT/MPA,0.029,0.007,0.129,0.039

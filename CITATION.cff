@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this software or data, please cite both the paper and this archive.
-title: "Energy errors on transition paths set the kinetic accuracy of machine-learned interatomic potentials: code and data"
+title: "Predicting the sign and size of kinetic errors in machine-learned potentials from single-point energies: code and data"
 authors:
   - family-names: Yu
     given-names: Xiyao
@@ -12,7 +12,7 @@ repository-code: "https://github.com/PillowSoprano/mlip-kinetics-energy-errors"
 version: "1.0.0"
 references:
   - type: article
-    title: "Energy Errors on Transition Paths Set the Kinetic Accuracy of Machine-Learned Interatomic Potentials"
+    title: "Predicting the Sign and Size of Kinetic Errors in Machine-Learned Potentials from Single-Point Energies"
     authors:
       - family-names: Yu
         given-names: Xiyao

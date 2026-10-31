@@ -1,0 +1,4 @@
+model,basins,peak_over_mean,hops_per_Li_ps,median_jump_A,mean_sq_jump_A2,median_segment_fs,ions_in_transit,correlation_factor
+MACE-MPA-0-medium,96,33.8,0.307,3.14,9.89,180,5.8,0.464
+MACE-OMAT-0-medium,96,33.3,0.340,3.14,9.88,160,6.0,0.477
+CHGNet-MPtrj,54,8.7,0.458,4.36,23.95,240,12.1,0.375
